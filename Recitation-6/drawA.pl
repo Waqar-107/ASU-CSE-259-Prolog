@@ -14,9 +14,10 @@ a(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize) :-
   TextWidth is FontSize * 3,
   TextHeight is FontSize * 5,
   HorizontalLineLength is TextWidth + LeftRightMargin * 2 + 2,
+  CurrentLine is 0,
   drawHorizontalLine(HorizontalLineLength), nl,
   drawVerticalLinesWithSpace(BottomTopMargin, HorizontalLineLength - 2),
-  draw(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, TextWidth, TextHeight, FontSize, 0),
+  draw(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, TextWidth, TextHeight, FontSize, CurrentLine),
   drawVerticalLinesWithSpace(BottomTopMargin, HorizontalLineLength - 2),
   drawHorizontalLine(HorizontalLineLength).
 
