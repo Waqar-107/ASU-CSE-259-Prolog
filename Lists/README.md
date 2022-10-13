@@ -68,9 +68,9 @@
    X4 = []
    ```
 10. Extracting elements from a list that is inside another list. Suppose inside a list the 5th member is another list and we want to extract the 1st and 3rd member of that list.
-   ```prolog
-   [_, _, _, _, [X1, _, X3 | _] | _] = [[], 1, 2, 5, [90, 93, 94, 97, 99], 100, dead(monkey)].
+    ```prolog
+    [_, _, _, _, [X1, _, X3 | _] | _] = [[], 1, 2, 5, [90, 93, 94, 97, 99], 100, dead(monkey)].
 
-   X1 = 90
-   X3 = 94
-   ```
+    X1 = 90
+    X3 = 94
+    ```
