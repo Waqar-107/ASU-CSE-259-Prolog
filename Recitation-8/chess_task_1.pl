@@ -82,8 +82,6 @@ myMember(Piece, [_ | T]) :- myMember(Piece, T).
 
 
 initBoard([
-  state(white, WhiteKing, WhiteKingRook, WhiteQueenRook),
-  state(black, BlackKing, BlackKingRook, BlackQueenRook),
   piece(a-8, black, rook  ), piece(b-8, black, night ),
 	piece(c-8, black, bishop), piece(d-8, black, queen ),
 	piece(e-8, black, king  ), piece(f-8, black, bishop),
