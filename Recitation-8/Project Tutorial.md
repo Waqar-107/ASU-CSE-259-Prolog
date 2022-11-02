@@ -21,6 +21,7 @@ print_board(Board) :-
 - What you can do is, replace the ` write(Board), nl.` in the rule `print_board(Board)` with any other rule to draw the board. Use the codes shown in the class.
 
 
+
 ## Task-3
 
 ### What do we have here?
@@ -71,7 +72,25 @@ execute_command(X, Board, _) :-     % Use to catch unexpected situations
   - When calling `execute_command` for playerA, instead of passing a variable like `Command`, **just pass the atom playerA**.
 - Check out the code changes shown in the slides (recitation-8). **The red marked line is the required change.**
 
-  <img src="./assets/chess-task-3-0.png" alt="" height="150" width="750"/>
+  <img src="./assets/chess-task-3-0.png" alt="" height="150" width="850"/>
 
 ### Other notes
 - Inside the `execute_command` we have called `respond_to`. There are two things inside. One selects the best move determined by the alpha beta pruning, and other finishes the move. By finish, we mean check whether the situation is checkmate or stalemate or if not any of these two, we update the board. But these are implemented.
+
+
+## Task 2
+Let's check out the code flow,
+
+<img src="assets/chess.pl.png" alt="" width="600" height="700"/>
+
+- `play(Board)` is called where we execute commands for playerA and playerB. `execute_command` is called from here. The second `execute_command` should be called.
+
+- `execute_command` calls `respond_to` that eventually calls `select_move` and `finish_move`. The `select_move(Player, Board, From, To, Rating)` gets called.
+
+- `select_move` will try setting the depth for alpha-beta pruning algorihtm. The AI works better when the depth is big. You will see something like `ply_depthB(Depth)`. You will find that there is `ply_depthA(Depth)` but there is no implementation for this. Implement that.
+
+  There is `select_move(Player, Board, From, To, bookB)` where they use `bookB` inside. They have the similar thing for player A but there's no `bookA`. Write one observing `bookB`. They contain the initial boards and two extra variables, from and to. But if you look closely, the third ``select_move` gets called.
+
+- After that, `alpha_beta` is called. 
+
+- **Your job for the task-2 would be going through alpha_beta. Read the code carefully. You will find rules written specifically for the playerB. Such rules are called when it's playerBs' turn or we can say blacks turn. You will also find similar rules for playerA. The problem is they are only being called. They are not implemented yet. Your job is to check out the code for B and write them for A. You can learn more about the alpha-beta pruning algorithm in this [link](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/). But I thing writing codes for playerA mimicing playerB should work.**
