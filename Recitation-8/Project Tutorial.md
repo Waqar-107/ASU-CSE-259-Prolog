@@ -94,3 +94,15 @@ Let's check out the code flow,
 - After that, `alpha_beta` is called. 
 
 - **Your job for the task-2 would be going through alpha_beta. Read the code carefully. You will find rules written specifically for the playerB. Such rules are called when it's playerBs' turn or we can say blacks turn. You will also find similar rules for playerA. The problem is they are only being called. They are not implemented yet. Your job is to check out the code for B and write them for A. You can learn more about the alpha-beta pruning algorithm in this [link](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/). But I thing writing codes for playerA mimicing playerB should work.**
+
+## IMPORTANT IMPORTANT IMPORTANT!!! MAKE SURE TO SET THESE SYSTEM VARIABLES
+
+% THE FOLLOWING EXAMPLES ARE FOR bash
+
+%-------------------------------------
+
+export LOCALSZ=284000
+
+export GLOBALSZ=1500000
+
+export TRAILSZ=284000
