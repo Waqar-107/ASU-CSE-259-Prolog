@@ -45,6 +45,10 @@ rmvDup([H | Tail], Tail1):-
   rmvDup(Tail, Tail1).
 
 
+%%%%%%%%%%%%%%%% YOUR CODE STARTS %%%%%%%%%%%%%%%%
+
+% Implement all other non-branching rules below by following Wangs algorithm
+
 /*
  * b
  * example rule: negation
@@ -83,11 +87,12 @@ prove(L => R) :-
 prove(L => R) :-
   member(A v B, R),
   del(A v B, R, NewR),
-  nl write('=\t'), write(L => [A, B | NewR]),
+  nl, write('=\t'), write(L => [A, B | NewR]),
   write('\t (by or/right)'),
   prove(L => [A, B | NewR]).
 
 
+% Implement all branching rules below by following Wangs algorithm
 /*
  * f
  * example rule: left implication
@@ -113,15 +118,6 @@ prove(L => R) :-
   write(NewL => [A | R]),
   write('\t (by arrow/left)'),
   prove(NewL => [A | R]).
-
-%%%%%%%%%%%%%%%% YOUR CODE STARTS %%%%%%%%%%%%%%%%
-
-% Implement all other non-branching rules below by following Wang's algorithm
-
-
-
-% Implement all branching rules below by following Wang's algorithm
-
 
 %%%%%%%%%%%%%%%% YOUR CODE ENDS %%%%%%%%%%%%%%%%
 
