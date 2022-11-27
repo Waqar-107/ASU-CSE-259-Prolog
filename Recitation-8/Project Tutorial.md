@@ -98,11 +98,4 @@ Let's check out the code flow,
 ## IMPORTANT IMPORTANT IMPORTANT!!! MAKE SURE TO SET THESE SYSTEM VARIABLES
 
 % THE FOLLOWING EXAMPLES ARE FOR bash
-
-%-------------------------------------
-
-export LOCALSZ=284000
-
-export GLOBALSZ=1500000
-
-export TRAILSZ=284000
+- For mac or linux open prolog like this, `LOCALSZ=284000 GLOBALSZ=1500000 TRAILSZ=284000 gprolog`

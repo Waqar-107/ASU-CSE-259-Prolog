@@ -82,3 +82,7 @@ We need to implement the rules from Wangs algorithm. Some of the rules are alrea
      write('\t (by arrow/left)'),
      prove(NewL => [A | R]).
    ```
+
+
+   Test cases
+   1. `run([p, p -> q, q -> r], [r]).`
