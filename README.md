@@ -1,24 +1,8 @@
-# ASU CSE-259 Recitation
+# ASU CSE-259-Logic in Computer Science (Recitation)
+# Prolog
 
-## Anticipated Plan for Spring 24 
-The dates given in the following table is the Mondays
-
-
-|Date|Topics to be covered|Link|
-|----|--------------------|----|
-|Jan 8|Introduction to Prolog, Installing GNU Prolog||
-|Jan 15| No class on Monday - Martin Luther King Jr. Holiday - not holding recitation to keep all three classes synced |N/A|
-|Jan 22|Basics (Facts, Rules, Queries), Data objects (atoms, numbers, variables), Relations, and Some codes related to these topics.||
-|Jan 29|Prolog operators, not and different, cut, Conjunction, and Disjunction||
-|Feb 5|Input and output, Builtin predicates||
-|Feb 12|Recursion and structure, Backtracking||
-|Feb 19|Project 1: Printing `ASU` - drawing a square||
-|Feb 26|Project 1: Printing `ASU` - drawing the `A`||
-|March 4|Spring Break 🌴|N/A|
-|March 11|Project 2: Chess - drawing the chess board||
-|March 18|Project 2: Chess - task 1||
-|March 25|Project 2: Chess - task 2 and 3||
-|April 1|List in prolog||
-|April 8|Project 3: Tower of Hanoi||
-|April 15|||
-|April 22|||
+## Issues and fixes
+- If the environment variable of gprolog such as `GLOBALSZ`, `LOCALSZ` is configured incorrectly, the IDE might stop working. It might close immediately whenever opened. Even if uninstalled and installed again, it won't work. The reason behind this is, that these environment variables are saved by the operating system that are not removed while uninstalling. If we remove these, our IDE will start functioning again. To fix this, the following steps need to be done. (this is for WINDOWS)
+  - Hit the `Win + R` button and type `regedit`.
+  - Open `HKEY_CURRENT_USER\Software\GnuProlog\`
+  - Delete `GnuProlog` folder and we are done
