@@ -15,6 +15,6 @@ The dates given in the following table is the Mondays
 |March 18|Project 2: Chess - task 1||
 |March 25|Project 2: Chess - task 2 and 3||
 |April 1|List in prolog||
-|April 8|||
+|April 8|Project 3: Wang and Kobsas algorithm||
 |April 15|||
 |April 22|||
