@@ -11,7 +11,8 @@ next_to(arizona, california).
 next_to(arizona, new_mexico).
 next_to(new_mexico, arizona).
 
-% rule - when can we travel from state A to state B?
+
+% rule - when can we travel from state A to state C?
 travel(A, C) :- (
   next_to(A, C);
   (next_to(A, B), next_to(B, C), A \= C)).
