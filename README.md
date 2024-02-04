@@ -6,3 +6,11 @@
   - Hit the `Win + R` button and type `regedit`.
   - Open `HKEY_CURRENT_USER\Software\GnuProlog\`
   - Delete `GnuProlog` folder and we are done
+
+
+## Some concepts
+1. Difference between `\=` and `\==`
+
+   `\=` is often used in negation-as-failure scenarios. For example, not(X = Y) succeeds if X and Y cannot be unified.
+
+   `\==` is useful when you want to ensure terms are completely separate entities, not just different values.
