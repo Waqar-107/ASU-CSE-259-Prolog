@@ -14,3 +14,5 @@ path(A, B) :- connected(A, B).
 path(A, B) :- connected(A, C), C \== B, path(C, B).
 
 travel(A, B) :- path(A, B).
+
+% A-C _____ B
