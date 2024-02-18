@@ -76,7 +76,7 @@ draw(LeftRightMargin, SpaceBetweenCharacters, FontSize, CurrentLine, TextWidth, 
   % add spaces here between A and S
   % drawS
   % add spaces here between S and U
-  $ drawU
+  % drawU
   /*---------------------------------------------*/
   drawSymbol(' ', LeftRightMargin),
   write('|'),
