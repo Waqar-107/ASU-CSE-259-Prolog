@@ -113,8 +113,7 @@ asu(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize) :-
   drawVerticalLinesWithSpace('|', BottomTopMargin, Width),
 
   /* the actual text */
-  drawVerticalLinesWithCharacters(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize), 
-  %nl,
+  drawVerticalLinesWithCharacters(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize),
 
   /* the empty space in the bottom */
   drawVerticalLinesWithSpace('|', BottomTopMargin, Width),
