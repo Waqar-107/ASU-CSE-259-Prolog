@@ -64,7 +64,6 @@ drawA(TextWidth, TextHeight, FontSize, CurrentLine, ColumnNumber) :-
 
 
 
-/* draw the text with appropriate spacing*/
 draw(LeftRightMargin, SpaceBetweenCharacters, FontSize, CurrentLine, TextWidth, TextHeight) :-
   CurrentLine >= TextHeight.
 draw(LeftRightMargin, SpaceBetweenCharacters, FontSize, CurrentLine, TextWidth, TextHeight) :-
@@ -75,8 +74,10 @@ draw(LeftRightMargin, SpaceBetweenCharacters, FontSize, CurrentLine, TextWidth, 
   /*---------------------------------------------*/
   /** WRITE YOUR CODES HERE **/
   % add spaces here between A and S
+  ColumnNumber is 0,
   % drawS
   % add spaces here between S and U
+  ColumnNumber is 0,
   % drawU
   /*---------------------------------------------*/
   drawSymbol(' ', LeftRightMargin),
@@ -87,7 +88,6 @@ draw(LeftRightMargin, SpaceBetweenCharacters, FontSize, CurrentLine, TextWidth, 
 
 
 
-/* this will be initiating the variables and will be called from asu() */
 drawVerticalLinesWithCharacters(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize) :-
   CurrentLine is 0,
   TextWidth is FontSize * 3,
@@ -96,27 +96,14 @@ drawVerticalLinesWithCharacters(LeftRightMargin, BottomTopMargin, SpaceBetweenCh
 
 
 
-/* this will be used from the console */
 asu(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize) :-
-  /* verify that the variables are integers */
   integer(LeftRightMargin), integer(BottomTopMargin), integer(SpaceBetweenCharacters), integer(FontSize),
-
-  /* calculate the height and width */
   Width is (LeftRightMargin * 2 + SpaceBetweenCharacters * 2 + FontSize * 3 * 3 + 2),
   Height is (BottomTopMargin * 2 + FontSize * 5),
 
-  /* top horizontal line of the box */
   drawHorizontalLine('-', Width),
   nl,
-
-  /* the empty space in the top */
   drawVerticalLinesWithSpace('|', BottomTopMargin, Width),
-
-  /* the actual text */
   drawVerticalLinesWithCharacters(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize), 
-
-  /* the empty space in the bottom */
   drawVerticalLinesWithSpace('|', BottomTopMargin, Width),
-
-  /* bottom horizontal line of the box */
   drawHorizontalLine('-', Width).
