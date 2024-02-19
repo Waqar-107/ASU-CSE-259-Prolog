@@ -68,8 +68,8 @@ draw(LeftRightMargin, SpaceBetweenCharacters, FontSize, CurrentLine, TextWidth, 
   CurrentLine >= TextHeight.
 draw(LeftRightMargin, SpaceBetweenCharacters, FontSize, CurrentLine, TextWidth, TextHeight) :-
   CurrentLine < TextHeight,
-  ColumnNumber is 0,
   write('|'), drawSymbol(' ', LeftRightMargin),
+  ColumnNumber is 0,
   drawA(TextWidth, TextHeight, FontSize, CurrentLine, ColumnNumber),
   /*---------------------------------------------*/
   /** WRITE YOUR CODES HERE **/
