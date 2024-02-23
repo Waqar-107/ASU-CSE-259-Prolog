@@ -9,12 +9,12 @@ The dates given in the following table is the Mondays
 |Feb 5|Recursion and cut|[Slide link](./Recitation-3/CSE%20259%20-%20Recitation%203.pdf)|[Google Drive Link](https://drive.google.com/file/d/1VVFP_lWo-ehoqwaE6OGiFxpLghdQWeL3/view?usp=sharing)|
 |Feb 12|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-4/CSE%20259%20-%20Recitation%204.pdf)|[Google Drive Link](https://drive.google.com/file/d/12pTT-vUUV-ql7hRVHBZG6KSYW4Dwy1nO/view?usp=sharing)|
 |Feb 19|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20Recitation%205.pdf)|[Google Drive Link](https://drive.google.com/file/d/1yfI0hxdcUnjpzjgQvigt3wctKjtNFzd7/view?usp=sharing)|
-|Feb 26||||
+|Feb 26|List in prolog|||
 |March 4|Spring Break 🌴|N/A|N/A|
 |March 11|Project 2: Chess - drawing the chess board|||
 |March 18|Project 2: Chess - task 1|||
 |March 25|Project 2: Chess - task 2 and 3|||
-|April 1|List in prolog|||
+|April 1||||
 |April 8|Project 3: Wang and Kobsas algorithm|||
 |April 15||||
 |April 22||||
