@@ -9,7 +9,7 @@ The dates given in the following table is the Mondays
 |Feb 5|Recursion and cut|[Slide link](./Recitation-3/CSE%20259%20-%20Recitation%203.pdf)|[Google Drive Link](https://drive.google.com/file/d/1VVFP_lWo-ehoqwaE6OGiFxpLghdQWeL3/view?usp=sharing)|
 |Feb 12|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-4/CSE%20259%20-%20Recitation%204.pdf)|[Google Drive Link](https://drive.google.com/file/d/12pTT-vUUV-ql7hRVHBZG6KSYW4Dwy1nO/view?usp=sharing)|
 |Feb 19|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20Recitation%205.pdf)|[Google Drive Link](https://drive.google.com/file/d/1yfI0hxdcUnjpzjgQvigt3wctKjtNFzd7/view?usp=sharing)|
-|Feb 26||||
+|Feb 26|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-6/CSE%20259%20-%20Recitation%206.pdf)|[Google Drive Link](https://drive.google.com/file/d/1rLU7iMc5zmY1rNf19Yq5XVCXDugin_oi/view?usp=sharing)|
 |March 4|Spring Break 🌴|N/A|N/A|
 |March 11||||
 |March 18|Project 2: Chess - task 1|||
