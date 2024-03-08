@@ -415,7 +415,7 @@ report_move(Color, Board, From_File-From_Rank, To_File-To_Rank, Rating) :-
 /*         KEEP THE NAME print_board, JUST CHANGE THE IMPLEMENTATION*/
 /* ----------------------------------------------------------------------- */
 print_board(Board) :-
-    write(Board), nl.
+    write('hello world'), nl.
 /* ----------------------------------------------------------------------- */
 
 
