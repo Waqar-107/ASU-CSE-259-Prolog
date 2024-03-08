@@ -74,7 +74,7 @@ pair(bishop, b).
 pair(king, k).
 pair(pawn, p).
 pair(queen, q).
-pair(night, n).
+pair(knight, n).
 
 
 myMember(Piece, [Piece | _]).
