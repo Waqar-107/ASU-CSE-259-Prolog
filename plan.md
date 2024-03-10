@@ -11,9 +11,8 @@ The dates given in the following table is the Mondays
 |Feb 19|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20Recitation%205.pdf)|[Google Drive Link](https://drive.google.com/file/d/1yfI0hxdcUnjpzjgQvigt3wctKjtNFzd7/view?usp=sharing)|
 |Feb 26|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-6/CSE%20259%20-%20Recitation%206.pdf)|[Google Drive Link](https://drive.google.com/file/d/1rLU7iMc5zmY1rNf19Yq5XVCXDugin_oi/view?usp=sharing)|
 |March 4|Spring Break 🌴|N/A|N/A|
-|March 11||||
-|March 18|Project 2: Chess - task 1|||
-|March 25|Project 2: Chess - task 2 and 3|||
+|March 11|Project 2: Chess - task 1|[Slide Link](../ASU-CSE-259-Prolog/Recitation-7/CSE%20259%20-%20Recitation%207.pdf)||
+|March 18|Project 2: Chess - task 2 and 3|||
 |April 1||||
 |April 8|Project 3: Wang and Kobsas algorithm|||
 |April 15||||
