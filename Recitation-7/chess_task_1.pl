@@ -469,6 +469,7 @@ pair(e, 4).
 pair(f, 3).
 pair(g, 2).
 pair(h, 1).
+
 pair(rook, r).
 pair(bishop, b).
 pair(king, k).
