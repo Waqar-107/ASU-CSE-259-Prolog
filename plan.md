@@ -3,7 +3,7 @@
 ## Schedule
 M: 2:30 PM - 3:20 PM
 
-Th: 1:30 PM - 2:@0 PM
+Th: 1:30 PM - 2:20 PM
 
 F: 2:30 PM - 3:20 PM
 
