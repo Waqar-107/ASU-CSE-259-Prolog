@@ -10,22 +10,6 @@ F: 2:30 PM - 3:20 PM
 ## Plan
 The dates given in the following table are Mondays
 
-Aug 26
-Sept 2 - Labor Day/closed
-Sept 9
-Sept 16
-Sept 23
-Sept 30
-Oct 7
-Oct 14 - fall break
-Oct 21
-Oct 28
-Nov 4
-Nov 11 - veteran day break
-Nov 18
-Nov 25 - thanks giving on 28/29 - thu/fri so no class this week
-Dec 2
-
 |Date|Topics to be covered|Link|
 |----|--------------------|----|
 |Aug 26|Introduction to Prolog, Installing GNU Prolog|[Slide Link](./Recitation-1/CSE%20259%20-%20Recitation%201.pdf)|
@@ -38,7 +22,17 @@ Dec 2
 |Oct 14|Fall Break 🌴 / No class in this week|N/A|
 |Oct 21|Project 2: Chess - task 2 and 3|[Slide Link](../ASU-CSE-259-Prolog/Recitation-7/CSE%20259%20-%20Recitation%208.pdf)|
 |Oct 28|List in Prolog|[Slide Link](../ASU-CSE-259-Prolog/Recitation-9/CSE%20259%20-%20Recitation%209.pdf)|
-|Nov 04|Project 3: Wang and Kobsas algorithm|[Slide Link](./Recitation-10/CSE%20259%20-%20Recitation%2010.pdf)|
+|Nov 04|Project 3: Wang and Kobsa's algorithm|[Slide Link](./Recitation-10/CSE%20259%20-%20Recitation%2010.pdf)|
 |Nov 18|Project-4|[Slide Link](./Recitation-11/CSE%20259%20-%20Recitation%2011.pdf)|
 |Nov 25|No class in this week|N/A|
 |Dec 02|No class in this week|N/A|
+
+
+## Project due dates
+Project-1 (Printing ASU):  Oct 6 11:59 PM
+
+Project-2 (Chess): Nov 3 11:59 PM
+
+Project-3 (Wang and Kobsa's Algorithm): Nov 17 11:59 PM
+
+Project-4 (kinship relationship): Dec 1 11:59 PM
