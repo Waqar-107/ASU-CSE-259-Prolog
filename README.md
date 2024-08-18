@@ -1,16 +1,38 @@
 # ASU CSE-259-Logic in Computer Science (Recitation)
-# Prolog
 
-## Issues and fixes
-- If the environment variable of gprolog such as `GLOBALSZ`, `LOCALSZ` is configured incorrectly, the IDE might stop working. It might close immediately whenever opened. Even if uninstalled and installed again, it won't work. The reason behind this is, that these environment variables are saved by the operating system that are not removed while uninstalling. If we remove these, our IDE will start functioning again. To fix this, the following steps need to be done. (this is for WINDOWS)
-  - Hit the `Win + R` button and type `regedit`.
-  - Open `HKEY_CURRENT_USER\Software\GnuProlog\`
-  - Delete `GnuProlog` folder and we are done
+## Schedule
+M: 2:30 PM - 3:20 PM
+
+Th: 1:30 PM - 2:20 PM
+
+F: 2:30 PM - 3:20 PM
+
+## Plan
+The dates given in the following table are Mondays
+
+|Date|Topics to be covered|Link|
+|----|--------------------|----|
+|Aug 26|Introduction to Prolog, Installing GNU Prolog|[Slide Link](./Recitation-1/CSE%20259%20-%20Recitation%201.pdf)|
+|Sept 2|Basics (Facts, Rules, Queries), Data objects (atoms, numbers, variables), Relations, and Some codes related to these topics.|[Slide Link](./Recitation-2/CSE%20259%20-%20Recitation%202.pdf)|
+|Sept 09|Recursion and cut|[Slide link](./Recitation-3/CSE%20259%20-%20Recitation%203.pdf)|
+|Sept 16|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-4/CSE%20259%20-%20Recitation%204.pdf)|
+|Sept 23|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20Recitation%205.pdf)|
+|Sept 30|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-6/CSE%20259%20-%20Recitation%206.pdf)|
+|Oct 07|Project 2: Chess - task 1|[Slide Link](../ASU-CSE-259-Prolog/Recitation-7/CSE%20259%20-%20Recitation%207.pdf)|
+|Oct 14|Fall Break 🌴 / No class in this week|N/A|
+|Oct 21|Project 2: Chess - task 2 and 3|[Slide Link](../ASU-CSE-259-Prolog/Recitation-7/CSE%20259%20-%20Recitation%208.pdf)|
+|Oct 28|List in Prolog|[Slide Link](../ASU-CSE-259-Prolog/Recitation-9/CSE%20259%20-%20Recitation%209.pdf)|
+|Nov 04|Project 3: Wang and Kobsa's algorithm|[Slide Link](./Recitation-10/CSE%20259%20-%20Recitation%2010.pdf)|
+|Nov 18|Project-4|[Slide Link](./Recitation-11/CSE%20259%20-%20Recitation%2011.pdf)|
+|Nov 25|No class in this week|N/A|
+|Dec 02|No class in this week|N/A|
 
 
-## Some concepts
-1. Difference between `\=` and `\==`
+## Project due dates
+Project-1 (Printing ASU):  Oct 6 11:59 PM
 
-   `\=` is often used in negation-as-failure scenarios. For example, not(X = Y) succeeds if X and Y cannot be unified.
+Project-2 (Chess): Nov 3 11:59 PM
 
-   `\==` is useful when you want to ensure terms are completely separate entities, not just different values.
+Project-3 (Wang and Kobsa's Algorithm): Nov 17 11:59 PM
+
+Project-4 (kinship relationship): Dec 1 11:59 PM
