@@ -15,7 +15,7 @@ The dates given in the following table are Mondays
 |-|Resources, Installing GNU Prolog|[Slide Link](./CSE%20259%20-%20Resources_and_GNU_Prolog_Installation.pdf)||
 |Sept 2|Basics (Facts, Rules, Queries), Data objects (atoms, numbers, variables), Relations, and Some codes related to these topics.|[Slide Link](./Recitation-1/CSE%20259%20-%20Recitation%201.pdf)|[Link](https://drive.google.com/file/d/1tuhWcSTVhozeeuNUXi7Qc8t4mkeDMiOX/view?usp=sharing)|
 |Sept 09|Recursion and cut|[Slide link](./Recitation-2/CSE%20259%20-%20Recitation%202.pdf)|[Link](https://drive.google.com/file/d/1JLS0ndjW2huQKrDFMzoHQC1X4k4W97mz/view?usp=sharing)|
-|Sept 16|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-3/CSE%20259%20-%20Recitation%203.pdf)||
+|Sept 16|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-3/CSE%20259%20-%20Recitation%203.pdf)|[Link](https://drive.google.com/file/d/13erKU4JVcS57l2WNVT6kJV2bzz7Aahle/view?usp=sharing)|
 |Sept 23|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-4/CSE%20259%20-%20Recitation%204.pdf)||
 |Sept 30|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-5/CSE%20259%20-%20Recitation%205.pdf)||
 |Oct 07|Project 2: Chess - task 1|[Slide Link](./Recitation-6/CSE%20259%20-%20Recitation%206.pdf)||
