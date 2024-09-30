@@ -17,7 +17,7 @@ The dates given in the following table are Mondays
 |Sept 09|Recursion and cut|[Slide link](./Recitation-2/CSE%20259%20-%20Recitation%202.pdf)|[Link](https://drive.google.com/file/d/1JLS0ndjW2huQKrDFMzoHQC1X4k4W97mz/view?usp=sharing)|
 |Sept 16|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-3/CSE%20259%20-%20Recitation%203.pdf)|[Link](https://drive.google.com/file/d/13erKU4JVcS57l2WNVT6kJV2bzz7Aahle/view?usp=sharing)|
 |Sept 23|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-4/CSE%20259%20-%20Recitation%204.pdf)|[Link](https://drive.google.com/file/d/1qLEf8UxF778A5YtAov3JL3MzW1dtguMa/view?usp=sharing)|
-|Sept 30|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-5/CSE%20259%20-%20Recitation%205.pdf)||
+|Sept 30|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-5/CSE%20259%20-%20Recitation%205.pdf)|[Link](https://drive.google.com/file/d/1_Whw-ZyqzydpYA7H22VYu2KO5t9phIfE/view?usp=sharing)|
 |Oct 07|Project 2: Chess - task 1|[Slide Link](./Recitation-6/CSE%20259%20-%20Recitation%206.pdf)||
 |Oct 14|Fall Break 🌴 / No class in this week|N/A||
 |Oct 21|Project 2: Chess - task 2 and 3|[Slide Link](./Recitation-7/CSE%20259%20-%20Recitation%207.pdf)||
