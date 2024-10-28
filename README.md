@@ -21,7 +21,7 @@ The dates given in the following table are Mondays
 |Oct 07|Project 2: Chess - task 1|[Slide Link](./Recitation-6/CSE%20259%20-%20Recitation%206.pdf)|[Link](https://drive.google.com/file/d/1FYvTIalAtXxyyJWW9nCDxPgseyu_W83P/view?usp=sharing)|
 |Oct 14|Fall Break 🌴 / No class in this week|N/A||
 |Oct 21|Project 2: Chess - task 2 and 3|[Slide Link](./Recitation-7/CSE%20259%20-%20Recitation%207.pdf)|[Link](https://drive.google.com/file/d/18phN2LiiftEM0vMFxFO-skYLmcJLosrW/view?usp=sharing)|
-|Oct 28|List in Prolog|[Slide Link](./Recitation-8/CSE%20259%20-%20Recitation%208.pdf)||
+|Oct 28|List in Prolog|[Slide Link](./Recitation-8/CSE%20259%20-%20Recitation%208.pdf)|[Link](https://drive.google.com/file/d/1HxqUdqzLNtFDaY6Ow6EWQ6W0uhYmFE9k/view?usp=sharing)|
 |Nov 04|Project 3: Wang and Kobsa's algorithm|[Slide Link](./Recitation-9/CSE%20259%20-%20Recitation%209.pdf)||
 |Nov 18|Project-4|[Slide Link](./Recitation-10/CSE%20259%20-%20Recitation%2010.pdf)||
 |Nov 25|No class in this week|N/A||
