@@ -13,7 +13,7 @@ The dates given in the following table are Mondays
 
 |Date|Topics to be covered|Slide Link|Recording|
 |----|--------------------|----------|---------|
-|27 Jan|Resources, Installing GNU Prolog|[Slide Link]()||
+|27 Jan|Resources, Installing GNU Prolog|[Slide Link](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_GNU_Prolog_Installation.pdf)||
 |3 Feb|Basics (Facts, Rules, Queries), Data objects (atoms, numbers, variables), Relations, and Some codes related to these topics.|[Slide Link]()||
 |10 Feb|Recursion and cut|[Slide link]()||
 |17 Feb|Project 1: Printing `ASU` - drawing a square|[Slide Link]()||
