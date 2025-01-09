@@ -14,8 +14,8 @@ The dates given in the following table are Mondays
 |Date|Topics to be covered|Slide Link|Recording|
 |----|--------------------|----------|---------|
 |27 Jan|Resources, Installing GNU Prolog|[Slide Link](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_GNU_Prolog_Installation.pdf)||
-|3 Feb|Basics (Facts, Rules, Queries), Data objects (atoms, numbers, variables), Relations, and Some codes related to these topics.|[Slide Link]()||
-|10 Feb|Recursion and cut|[Slide link]()||
+|3 Feb|Basic Building Blocks|[Slide Link](./Recitation-2/CSE%20259%20-%20R2%20-%20Basic-Building-Blocks.pdf)||
+|10 Feb|Recursion and cut|[Slide link](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion-and-Cut)||
 |17 Feb|Project 1: Printing `ASU` - drawing a square|[Slide Link]()||
 |24 Feb|Project 1: Printing `ASU` - drawing the `A`|[Slide Link]()||
 |Mar 3|Project 2: Intro, Drawing the Chess board|[Slide Link]()||
