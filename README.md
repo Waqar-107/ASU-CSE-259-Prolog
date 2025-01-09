@@ -8,7 +8,7 @@ For 16658: 10:10 AM - 11:00 AM
 For 25223: 12:20 PM - 1:10 PM
 
 
-## Plan - SYLLABUS UNDER CONSTRUCTION
+## Plan
 The dates given in the following table are Mondays
 
 |Date|Topics to be covered|Slide Link|Recording|
@@ -19,21 +19,21 @@ The dates given in the following table are Mondays
 |17 Feb|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)||
 |24 Feb|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)||
 |Mar 3|List in Prolog|[Slide Link](./Recitation-6/CSE%20259%20-%20R6%20-%20List-in-Prolog.pdf)||
-|Mar 9|Spring Break 🌴 / No class in this week|N/A||
+|Mar 10|Spring Break 🌴 / No class in this week|N/A||
 |Mar 17|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-1.pdf)||
 |Mar 24|Project 2: Chess - task 1|[Slide Link](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-2.pdf)||
 |Mar 31|Project 2: Chess - task 2 and 3|[Slide Link](./Recitation-9/CSE%20259%20-%20R9%20-%20Project-2-Part-3.pdf)||
 |Apr 7|No Class in this week|N/A|N/A|
-|Apr 14|Project 3: Wang and Kobsa's algorithm|[Slide Link]()||
-|Apr 21|Project-4|[Slide Link]()||
+|Apr 14|Project 3: Wang and Kobsa's algorithm|[Slide Link](./Recitation-10/CSE%20259%20-%20R10%20-%20Project-3.pdf)||
+|Apr 21|Project-4|[Slide Link](./Recitation-11/CSE%20259%20-%20R11%20-%20Project-4.pdf)||
 |Apr 28|No class in this week|N/A|N/A|
 
 
-## Project due dates
-Project-1 (Printing ASU):  
+## Project deadline
+Project-1 (Printing ASU):  March 7, 2025 (11:59 PM)
 
-Project-2 (Chess): 
+Project-2 (Chess): April 11, 2025 (11:59 PM)
 
-Project-3 (Wang and Kobsa's Algorithm):
+Project-3 (Wang and Kobsa's Algorithm): April 18, 2025 (11:59 PM)
 
-Project-4 (kinship relationship):
+Project-4 (kinship relationship): May 2, 2025 (11:59 PM)
