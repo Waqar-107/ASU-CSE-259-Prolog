@@ -20,13 +20,13 @@ The dates given in the following table are Mondays
 |24 Feb|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)||
 |Mar 3|List in Prolog|[Slide Link](./Recitation-6/CSE%20259%20-%20R6%20-%20List-in-Prolog.pdf)||
 |Mar 9|Spring Break 🌴 / No class in this week|N/A||
-|Mar 17|Project 2: Intro, Drawing the Chess board|[Slide Link]()||
-|Mar 24|Project 2: Chess - task 1|[Slide Link]()||
-|Mar 31|Project 2: Chess - task 2 and 3|N/A||
-|Apr 7||[Slide Link]()||
+|Mar 17|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-1.pdf)||
+|Mar 24|Project 2: Chess - task 1|[Slide Link](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-2.pdf)||
+|Mar 31|Project 2: Chess - task 2 and 3|[Slide Link](./Recitation-9/CSE%20259%20-%20R9%20-%20Project-2-Part-3.pdf)||
+|Apr 7|No Class in this week|N/A|N/A|
 |Apr 14|Project 3: Wang and Kobsa's algorithm|[Slide Link]()||
 |Apr 21|Project-4|[Slide Link]()||
-|Apr 28|No class in this week|N/A||
+|Apr 28|No class in this week|N/A|N/A|
 
 
 ## Project due dates
