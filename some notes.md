@@ -15,3 +15,9 @@
    `\=` is often used in negation-as-failure scenarios. For example, not(X = Y) succeeds if X and Y cannot be unified.
 
    `\==` is useful when you want to ensure terms are completely separate entities, not just different values.
+
+  What is Unification in Prolog?
+  
+  Unification in Prolog is the process of making two terms identical by finding appropriate values for variables. It is Prolog's way of solving equations between terms.
+
+  Unification succeeds if Prolog can make the two terms equal by assigning values to variables. If unification fails, it means no possible values can make the terms identical.
