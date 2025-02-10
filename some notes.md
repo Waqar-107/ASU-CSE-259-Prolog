@@ -9,6 +9,10 @@
 
 - If you need to change variables such as LOCALSZ or GLOBALSZ, you can do it from the GNU Prolog console in Windows. For mac use `LOCALSZ=28400 GLOBALSZ=1500000 TRAILSZ=284000 gprolog` to open GNU Prolog and then load your pl file to increase memory.
 
+- Running the code on Mac
+  - Open GNU prolog in the terminal by the command `gprolog`
+  - Write `consult('full_path.pl')`. Do not forget the quotes.
+
 ## Some concepts
 1. Difference between `\=` and `\==`
 
