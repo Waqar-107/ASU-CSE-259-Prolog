@@ -1,7 +1,6 @@
 drawSymbol(Symbol, 0).
 drawSymbol(Symbol, N) :- N > 0, write(Symbol), N1 is N - 1, drawSymbol(Symbol, N1).
 
-drawHorizontalLine(Symbol, 0) :- nl.
 drawHorizontalLine(Symbol, N) :- drawSymbol(Symbol, N).
 
 drawVerticalLines(Symbol, 0, Width).
