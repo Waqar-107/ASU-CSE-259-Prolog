@@ -17,7 +17,7 @@ The dates given in the following table are Mondays
 |Jan 27|Basic Building Blocks|[Slide Link](./Recitation-2/CSE%20259%20-%20R2%20-%20Basic-Building-Blocks.pdf)|[Link](https://drive.google.com/file/d/129yfgB0t3hPAyJXqp-WJx-fIHFpmo-It/view?usp=sharing)|
 |Feb 3|Recursion and cut|[Slide link](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion-and-Cut.pdf)|[Link](https://drive.google.com/file/d/1Z6nlO9OzkXobaNht9rVmM04mlpHKrfuE/view?usp=sharing)|
 |Feb 10|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)|[Link](https://drive.google.com/file/d/1pHtI6iDN3vKyi-dJe54l87xl4B35ixHw/view?usp=sharing)|
-|Feb 17|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)||
+|Feb 17|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)|[Link](https://drive.google.com/file/d/1Gt97kG-na3FeA9Tb7B7q5TcQAfHvrrx-/view?usp=sharing)|
 |Feb 24|Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-1.pdf)||
 |Mar 3 |Project 2: Chess - task 1|[Slide Link](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-2.pdf)||
 |Mar 10|Spring Break 🌴 / No class in this week|N/A||
