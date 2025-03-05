@@ -19,7 +19,7 @@ The dates given in the following table are Mondays
 |Feb 10|Project 1: Printing `ASU` - drawing a square|[Slide Link](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)|[Link](https://drive.google.com/file/d/1pHtI6iDN3vKyi-dJe54l87xl4B35ixHw/view?usp=sharing)|
 |Feb 17|Project 1: Printing `ASU` - drawing the `A`|[Slide Link](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)|[Link](https://drive.google.com/file/d/1Gt97kG-na3FeA9Tb7B7q5TcQAfHvrrx-/view?usp=sharing)|
 |Feb 24|List in Prolog|[Slide Link](./Recitation-6/CSE%20259%20-%20R6%20-%20List-in-Prolog.pdf)|[Link](https://drive.google.com/file/d/1JD7_MGWMZWk0WVqqWN9y2KZ3r3RbghUu/view?usp=sharing)|
-|Mar 3 |Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-1.pdf)||
+|Mar 3 |Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-1.pdf)|[Link](https://drive.google.com/file/d/15YlGbOPXQu6G7pWABsUsDVDZuFOPVGw6/view?usp=sharing)|
 |Mar 10|Spring Break 🌴 / No class in this week|N/A||
 |Mar 17|Project 2: Chess - task 1|[Slide Link](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-2.pdf)||
 |Mar 24|Project 2: Chess - task 2 and 3|[Slide Link](./Recitation-9/CSE%20259%20-%20R9%20-%20Project-2-Part-3.pdf)||
