@@ -21,8 +21,8 @@ The dates given in the following table are Mondays
 |Feb 24|List in Prolog|[Slide Link](./Recitation-6/CSE%20259%20-%20R6%20-%20List-in-Prolog.pdf)|[Link](https://drive.google.com/file/d/1JD7_MGWMZWk0WVqqWN9y2KZ3r3RbghUu/view?usp=sharing)|
 |Mar 3 |Project 2: Intro, Drawing the Chess board|[Slide Link](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-1.pdf)|[Link](https://drive.google.com/file/d/15YlGbOPXQu6G7pWABsUsDVDZuFOPVGw6/view?usp=sharing)|
 |Mar 10|Spring Break 🌴 / No class in this week|N/A||
-|Mar 17|Project 2: Chess - task 1|[Slide Link](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-2.pdf)||
-|Mar 24|Project 2: Chess - task 2 and 3|[Slide Link](./Recitation-9/CSE%20259%20-%20R9%20-%20Project-2-Part-3.pdf)|[Link](https://drive.google.com/file/d/1RL_JL3dHHwZK58rtndrRo9MDlmGppvIk/view?usp=sharing)|
+|Mar 17|Project 2: Chess - task 1|[Slide Link](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-2.pdf)|[Link](https://drive.google.com/file/d/1RL_JL3dHHwZK58rtndrRo9MDlmGppvIk/view?usp=sharing)|
+|Mar 24|Project 2: Chess - task 2 and 3|[Slide Link](./Recitation-9/CSE%20259%20-%20R9%20-%20Project-2-Part-3.pdf)|[Link](https://drive.google.com/file/d/1VK1JO6usj87d2TkERbdpOvlPip2hi0i4/view?usp=drive_link)|
 |Mar 31|Project 3: Wang and Kobsa's algorithm|[Slide Link](./Recitation-10/CSE%20259%20-%20R10%20-%20Project-3.pdf)||
 |Apr 7|No Class in this week|||
 |Apr 14|Project-4|[Slide Link](./Recitation-11/CSE%20259%20-%20R11%20-%20Project-4.pdf)||
