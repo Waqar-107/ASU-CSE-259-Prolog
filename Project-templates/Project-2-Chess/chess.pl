@@ -90,7 +90,7 @@ play(Board) :-
 		/* move playerA */
 		/* get_command asks the user for the move to be made. 
 		   modify this so that playerA moves on its own */
-    get_command(Command),
+    get_command(Command),  %added get_command to pull Commands from user
     execute_command(Command, Board, NewBoard),
 
     /* move playerB */
