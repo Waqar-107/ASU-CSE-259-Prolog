@@ -9,7 +9,7 @@ The dates given in the following table are Mondays
 
 |Date|Topics to be covered|Slide Link|Recording|
 |----|--------------------|----------|---------|
-|Sept 1|Introduction and Instaling Prolog|||
+|Sept 1|Introduction and Instaling Prolog|[Slide](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_GNU_Prolog_Installation.pdf)||
 |Sept 8|Basic Building Blocks|||
 |Sept 15|Recursion and cut|||
 |Sept 22|Project 1: Printing `ASU` - drawing a square|||
