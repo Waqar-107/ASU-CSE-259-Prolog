@@ -11,7 +11,7 @@ The dates given in the following table are Mondays
 |----|--------------------|----------|---------|
 |Sept 1|Introduction and Instaling Prolog|[Slide](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_GNU_Prolog_Installation.pdf)||
 |Sept 8|Basic Building Blocks|[Slide](./Recitation-2/CSE%20259%20-%20R2%20-%20Basic%20building%20blocks.pdf)||
-|Sept 15|Recursion and cut|||
+|Sept 15|Recursion and cut|[Slide](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion%20and%20Cut.pdf)||
 |Sept 22|Project 1: Printing `ASU` - drawing a square|||
 |Sept 29|Project 1: Printing `ASU` - drawing the `A`|||
 |Oct 6|Project 2: Intro, Drawing the Chessboard|||
