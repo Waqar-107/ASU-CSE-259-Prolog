@@ -1,4 +1,4 @@
-drawSymbol(Symbol, 0).
+drawSymbol(_, 0).
 drawSymbol(Symbol, N) :- N > 0, write(Symbol), N1 is N - 1, drawSymbol(Symbol, N1).
 
 
