@@ -4,7 +4,7 @@
 % Chess -- Mar. 1, 1987   Mike Carlton
 %
 % Adapted by Yu ("Tony") Zhang for ASU CSE 259, Fall 2019
-% Modified by Waqar Hassan Khan for ASU CSE 259, Spring 2024
+% Modified by Waqar Hassan Khan for ASU CSE 259, Fall 2025
 %
 % Standard rules of chess apply with the following exceptions:
 %  en passant captures are not allowed,
@@ -25,32 +25,17 @@
 % where the state variables will be bound to an atom once the
 % corresponding piece has been moved.
 % A move is stored internally as: move(From_File-From_Rank, To_File-To_Rank).
-%
-% Commands available:
-%  Move:  entered in the form FRFR (where F is in a..h and R is in 1..8)
-%  board: prints the current board
-%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% "PlayerA" PlayerA moves first (white);
-% "PlayerB" PlayerB moves second (black);
-%
-% You should test with both PlayerA and PlayerB
-%
-% Competition will be based on the following parameters
-%
-%%%% IMPORTANT IMPORTANT IMPORTANT!!! MAKE SURE TO SET THESE SYSTEM VARIABLES
-% THE FOLLOWING EXAMPLES ARE FOR bash
-%-------------------------------------
-% export LOCALSZ=284000
-% export GLOBALSZ=1500000
-% export TRAILSZ=284000
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
 /* this is the rule which we shall call from the console */
 main :-
-    randomize,                       % Setting up the seed for random number generator
+    % Setting up the seed for random number generator
+    get_time(Time),
+    Seed is integer(Time),       % convert float → integer
+    set_random(seed(Seed)),
     init_board(InBoard),
     play(InBoard),                   % Start playing
   fail.
@@ -129,8 +114,10 @@ player(playerA, white).
 player(playerB, black).
 
 /* -------------------------- DO NOT OVERRIDE --------------------------- */
-strengthA([], _, _, Rand) :- noise_level(Level), random(0, Level, Number),
-Rand is Number.               % Add random value to avoid deadlock
+strengthA([], _, _, Rand) :- 
+  noise_level(Level),
+  random_between(0, Level, Number),
+  Rand is Number.               % Add random value to avoid deadlock
 /* ----------------------------------------------------------------------- */
 
 
@@ -144,8 +131,10 @@ Rand is Number.               % Add random value to avoid deadlock
 
 
 /* -------------------------- DO NOT OVERRIDE --------------------------- */
-strengthB([], _, _, Rand) :- noise_level(Level), random(0, Level, Number),
-      Rand is Number.               % Add random value to avoid deadlock
+strengthB([], _, _, Rand) :- 
+  noise_level(Level), 
+  random_between(0, Level, Number),
+  Rand is Number.               % Add random value to avoid deadlock
 /* ----------------------------------------------------------------------- */
 
 
