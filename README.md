@@ -12,7 +12,7 @@ The dates given in the following table are Mondays
 |Sept 1|Introduction and Installing Prolog|[Slide](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_GNU_Prolog_Installation.pdf)|[Class Recording](https://drive.google.com/file/d/1zFTmr0y_iJhKUisXzaJNJOylvHjuf4c6/view?usp=sharing)|
 |Sept 8|Basic Building Blocks|[Slide](./Recitation-2/CSE%20259%20-%20R2%20-%20Basic%20building%20blocks.pdf)|[Class Recording](https://drive.google.com/file/d/1UhYYiQHdKcKw1bVySU2rhWuqu3K4kWeR/view?usp=sharing)|
 |Sept 15|Recursion and cut|[Slide](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion%20and%20Cut.pdf)|[Class Recording](https://drive.google.com/file/d/1qrHiTQjg_STT4eVR94E8eLVBfcTMoLzQ/view?usp=sharing)|
-|Sept 22|Project 1: Printing `ASU` - drawing a square|[Slide](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)||
+|Sept 22|Project 1: Printing `ASU` - drawing a square|[Slide](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)|[Class Recording](https://drive.google.com/file/d/1NSi4gwiLs7uQ1wWLMydBFiPhG7xkesZc/view?usp=sharing)|
 |Sept 29|Project 1: Printing `ASU` - drawing the `A`|[Slide](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)||
 |Oct 6|Project 2: Intro, Drawing the Chessboard|[Slide](./Recitation-6/CSE%20259%20-%20R6%20-%20Project-2-Part-1.pdf)||
 |Oct 13|🌴 Fall break from Oct 11-14. No recitation this week|||
