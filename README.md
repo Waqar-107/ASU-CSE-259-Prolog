@@ -14,7 +14,7 @@ The dates given in the following table are Mondays
 |Sept 15|Recursion and cut|[Slide](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion%20and%20Cut.pdf)|[Class Recording](https://drive.google.com/file/d/1qrHiTQjg_STT4eVR94E8eLVBfcTMoLzQ/view?usp=sharing)|
 |Sept 22|Project 1: Printing `ASU` - drawing a square|[Slide](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)|[Class Recording](https://drive.google.com/file/d/1NSi4gwiLs7uQ1wWLMydBFiPhG7xkesZc/view?usp=sharing)|
 |Sept 29|Project 1: Printing `ASU` - drawing the `A`|[Slide](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)|[Class Recording](https://drive.google.com/file/d/1AT41o68GgpiIizR6xsh6YzVRvugQaxEF/view?usp=sharing)|
-|Oct 6|Project 2: Intro, Drawing the Chessboard|[Slide](./Recitation-6/CSE%20259%20-%20R6%20-%20Project-2-Part-1.pdf)||
+|Oct 6|Project 2: Intro, Drawing the Chessboard|[Slide](./Recitation-6/CSE%20259%20-%20R6%20-%20Project-2-Part-1.pdf)|[Class Recording](https://drive.google.com/file/d/1StIVBeAjgOODYGWvFAWRxIFRjnAewZI-/view?usp=sharing)|
 |Oct 13|🌴 Fall break from Oct 11-14. No recitation this week|||
 |Oct 20|Project 2: Chess - task 1|[Slide](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-2.pdf)||
 |Oct 27|Project 2: Chess - tasks 2 and 3|[Slide](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-3.pdf)||
