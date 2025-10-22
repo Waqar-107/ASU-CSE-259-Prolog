@@ -16,7 +16,7 @@ The dates given in the following table are Mondays
 |Sept 29|Project 1: Printing `ASU` - drawing the `A`|[Slide](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)|[Class Recording](https://drive.google.com/file/d/1AT41o68GgpiIizR6xsh6YzVRvugQaxEF/view?usp=sharing)|
 |Oct 6|Project 2: Intro, Drawing the Chessboard|[Slide](./Recitation-6/CSE%20259%20-%20R6%20-%20Project-2-Part-1.pdf)|[Class Recording](https://drive.google.com/file/d/1StIVBeAjgOODYGWvFAWRxIFRjnAewZI-/view?usp=sharing)|
 |Oct 13|🌴 Fall break from Oct 11-14. No recitation this week|||
-|Oct 20|Project 2: Chess - task 1|[Slide](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-2.pdf)||
+|Oct 20|Project 2: Chess - task 1|[Slide](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-2.pdf)|[Class Recording](https://drive.google.com/file/d/1kNiZznYuSQDn8Jge0lRbfeb83n0yAOPW/view?usp=sharing)|
 |Oct 27|Project 2: Chess - tasks 2 and 3|[Slide](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-3.pdf)||
 |Nov 3|List in Prolog|[Slide](./Recitation-9/CSE%20259%20-%20R9%20-%20List-in-Prolog.pdf)||
 |Nov 10|Project 3: Wang and Kobsa's algorithm|[Slide](./Recitation-10/CSE%20259%20-%20R10%20-%20Project-3.pdf)||
