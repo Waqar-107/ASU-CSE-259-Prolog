@@ -19,7 +19,7 @@ The dates given in the following table are Mondays
 |Oct 20|Project 2: Chess - task 1|[Slide](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-2.pdf)|[Class Recording](https://drive.google.com/file/d/1kNiZznYuSQDn8Jge0lRbfeb83n0yAOPW/view?usp=sharing)|
 |Oct 27|Project 2: Chess - tasks 2 and 3|[Slide](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-3.pdf)|[Class Recording](https://drive.google.com/file/d/1tWXFXSgiUkKmvj_2DXQ9I8vVMIxDnijf/view?usp=sharing)|
 |Nov 3|List in Prolog|[Slide](./Recitation-9/CSE%20259%20-%20R9%20-%20List-in-Prolog.pdf)|[Class Recording](https://drive.google.com/file/d/1NPcnmRGwvGwBTy3GN_Pyww4snG1l7N23/view?usp=sharing)|
-|Nov 10|Project 3: Wang and Kobsa's algorithm|[Slide](./Recitation-10/CSE%20259%20-%20R10%20-%20Project-3.pdf)||
+|Nov 10|Project 3: Wang and Kobsa's algorithm|[Slide](./Recitation-10/CSE%20259%20-%20R10%20-%20Project-3.pdf)|[Class Recording](https://drive.google.com/file/d/1F02x104neybtydm-aILFE3sbm_-27wDc/view?usp=sharing)|
 |Nov 17|Project-4: kinship relationship|[Slide](./Recitation-11/CSE%20259%20-%20R11%20-%20Project-4.pdf)||
 |Nov 24|🌴 Thanksgiving holiday from Nov 27-28. No recitation this week|||
 |Dec 1|No Class|||
