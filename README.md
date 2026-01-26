@@ -8,7 +8,7 @@ The dates given in the following table are Mondays
 
 |Date|Topics to be covered|Slide Link|Recording|
 |----|--------------------|----------|---------|
-|Jan 26|Introduction and Installing Prolog|[Slide](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_GNU_Prolog_Installation.pdf)||
+|Jan 26|Introduction and Installing Prolog|[Slide](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_SWI_Prolog_Installation.pdf)||
 |Feb 2|Basic Building Blocks|[Slide](./Recitation-2/CSE%20259%20-%20R2%20-%20Basic%20building%20blocks.pdf)||
 |Feb 9|Recursion and cut|[Slide](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion%20and%20Cut.pdf)||
 |Feb 16|Project 1: Printing `ASU` - drawing a square|[Slide](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)||
