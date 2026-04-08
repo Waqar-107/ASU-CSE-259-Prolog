@@ -137,9 +137,9 @@ prove(L => R) :-
   write('\tSecond branch: '),
   nl,
   write('=\t'),
-  write(NewL => [A | R]),
+  write(L => [A | R]),
   write('\t (by arrow/left)'),
-  prove(NewL => [A | R]).
+  prove(L => [A | R]).
 
 %%%%%%%%%%%%%%%% YOUR CODE ENDS %%%%%%%%%%%%%%%%
 
