@@ -24,7 +24,7 @@ The dates given in the following table are Mondays.
 |Nov 9|No recitation - Veteran's Day on Nov 11|||
 |Nov 16|Project 4: Kinship Relationship|[R11](./Recitation-11/CSE%20259%20-%20R11%20-%20Project-4.pdf)||
 |Nov 23|No recitation - Thanksgiving on Nov 26-27|||
-|Nov 30|No recitation - will be available on Zoom to help with project 4|||
+|Nov 30|No recitation - will be available on Discord to help with project 4|||
 
 ## Project deadlines
 
