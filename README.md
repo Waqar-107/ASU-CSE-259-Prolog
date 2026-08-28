@@ -10,7 +10,7 @@ The dates given in the following table are Mondays.
 
 |Date|Topics to be covered|Slide Link|Recording|
 |----|--------------------|----------|---------|
-|Aug 24|Introduction and Installing Prolog|[R1](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_SWI_Prolog_Installation.pdf)||
+|Aug 24|Introduction and Installing Prolog|[R1](./Recitation-1/CSE%20259%20-%20R1%20-%20Resources_and_SWI_Prolog_Installation.pdf)|[recording](https://drive.google.com/file/d/16IYbiFce1qNGFT1ZjPRyCVWyWCO7o6Mv/view?usp=sharing)|
 |Aug 31|Basic Building Blocks|[R2](./Recitation-2/CSE%20259%20-%20R2%20-%20Basic%20building%20blocks.pdf)||
 |Sep 7|No recitation - Labor Day on 7th Sept|||
 |Sep 14|Recursion and Cut|[R3](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion%20and%20Cut.pdf)||
