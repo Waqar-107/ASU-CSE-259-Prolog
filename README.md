@@ -16,7 +16,7 @@ The dates given in the following table are Mondays.
 |Sep 14|Recursion and Cut|[R3](./Recitation-3/CSE%20259%20-%20R3%20-%20Recursion%20and%20Cut.pdf)|[recording](https://drive.google.com/file/d/1DNCybLaDTB1cjNpcMqgOPW8Hu-ZfNKZR/view?usp=sharing)|
 |Sep 21|Project 1: Printing `ASU` - drawing a square|[R4](./Recitation-4/CSE%20259%20-%20R4%20-%20Project-1-Part-1.pdf)|[recording](https://drive.google.com/file/d/1IS3FMIxTiiINWGS7JXfjggheq3AQJMgr/view?usp=sharing)|
 |Sep 28|Project 1: Printing `ASU` - drawing the `A`|[R5](./Recitation-5/CSE%20259%20-%20R5%20-%20Project-1-Part-2.pdf)|[recording](https://drive.google.com/file/d/1YB9KSv3KXg4WVI_CRJsAq4ymu7xipBXQ/view?usp=sharing)|
-|Oct 5|Project 2: Intro, Drawing the Chessboard, and Task 1|[R6](./Recitation-6/CSE%20259%20-%20R6%20-%20Project-2-Part-1.pdf), [R7](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-2.pdf)||
+|Oct 5|Project 2: Intro, Drawing the Chessboard, and Task 1|[R6](./Recitation-6/CSE%20259%20-%20R6%20-%20Project-2-Part-1.pdf), [R7](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-2.pdf)|[recording](https://drive.google.com/file/d/1aP6upEapJm9reAB9pwd_EDdzEmvq3LbE/view?usp=sharing)|
 |Oct 12|No recitation - 🌴 Fall break from Oct 10-13|||
 |Oct 19|Project 2: Chess - Tasks 2 and 3|[R8](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-3.pdf)||
 |Oct 26|List in Prolog|[R9](./Recitation-9/CSE%20259%20-%20R9%20-%20List-in-Prolog.pdf)||
