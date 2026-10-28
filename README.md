@@ -19,12 +19,12 @@ The dates given in the following table are Mondays.
 |Oct 5|Project 2: Intro, Drawing the Chessboard, and Task 1|[R6](./Recitation-6/CSE%20259%20-%20R6%20-%20Project-2-Part-1.pdf), [R7](./Recitation-7/CSE%20259%20-%20R7%20-%20Project-2-Part-2.pdf)|[recording](https://drive.google.com/file/d/1aP6upEapJm9reAB9pwd_EDdzEmvq3LbE/view?usp=sharing)|
 |Oct 12|No recitation - 🌴 Fall break from Oct 10-13|||
 |Oct 19|Project 2: Chess - Tasks 2 and 3|[R8](./Recitation-8/CSE%20259%20-%20R8%20-%20Project-2-Part-3.pdf)|[recording](https://drive.google.com/file/d/1xyNVoExVmMaYYYRmECKt-CxYzqzpTA6s/view?usp=sharing)|
-|Oct 26|List in Prolog|[R9](./Recitation-9/CSE%20259%20-%20R9%20-%20List-in-Prolog.pdf)||
+|Oct 26|List in Prolog|[R9](./Recitation-9/CSE%20259%20-%20R9%20-%20List-in-Prolog.pdf)|[recording](https://drive.google.com/file/d/17R4xXmDe39cQ5LRgOuCbHCufMT-KpuVZ/view?usp=sharing)|
 |Nov 2|Project 3: Wang and Kobsa's Algorithm|[R10](./Recitation-10/CSE%20259%20-%20R10%20-%20Project-3.pdf)||
-|Nov 9|No recitation - Veteran's Day on Nov 11|||
+|Nov 9|No recitation - Veterans Day on Nov 11|||
 |Nov 16|Project 4: Kinship Relationship|[R11](./Recitation-11/CSE%20259%20-%20R11%20-%20Project-4.pdf)||
 |Nov 23|No recitation - Thanksgiving on Nov 26-27|||
-|Nov 30|No recitation - will be available on Discord to help with project 4|||
+|Nov 30|No recitation - will be available on Discord to help with Project 4|||
 
 ## Project deadlines
 
